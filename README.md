@@ -11,4 +11,4 @@ Profile Page: Displays user details and account information.
 Requirements
 
 Python 3.x
-Django 3.x or higher
+Django 3.x or higherrrrrrr
