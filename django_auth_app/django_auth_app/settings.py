@@ -1,7 +1,4 @@
 """
-Django settings for django_auth_app project.
-
-
 
 For more information on this file, see
 https://docs.djangoproject.com/en/5.1/topics/settings/
