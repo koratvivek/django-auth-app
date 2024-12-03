@@ -10,5 +10,5 @@ Dashboard: Accessible only to authenticated users with options to view profile a
 Profile Page: Displays user details and account information.
 Requirements
 
-Python 3.x
+Python 3.xxxxxx
 Django 3.x or higher
